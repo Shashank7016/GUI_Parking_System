@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=InputValidator
+comment1.params=slotId
+comment1.target=boolean\ isValidSlotId(java.lang.String)
+comment1.text=\r\n\ Checks\ if\ a\ given\ parking\ slot\ ID\ follows\ the\ required\ format\ of\ an\ uppercase\r\n\ letter\ followed\ by\ 3\ digits.\r\n\ \r\n\ @param\ slotId\ The\ parking\ slot\ ID\ to\ validate.\r\n\ @return\ True\ if\ the\ slot\ ID\ is\ valid,\ false\ otherwise.\r\n
+comment2.params=regNumber
+comment2.target=boolean\ isValidRegistrationNumber(java.lang.String)
+comment2.text=\r\n\ Checks\ if\ a\ given\ car\ registration\ number\ follows\ the\ required\ format\ of\ an\r\n\ uppercase\ letter\ followed\ by\ 4\ digits.\r\n\ \r\n\ @param\ regNumber\ The\ car\ registration\ number\ to\ validate.\r\n\ @return\ True\ if\ the\ registration\ number\ is\ valid,\ false\ otherwise.\r\n
+comment3.params=slotId\ parkingSlots
+comment3.target=boolean\ isSlotIdDuplicate(java.lang.String,\ java.util.ArrayList)
+comment3.text=\r\n\ Checks\ if\ a\ given\ parking\ slot\ ID\ is\ a\ duplicate\ in\ the\ provided\ list\ of\r\n\ parking\ slots.\r\n\ \r\n\ @param\ slotId\ \ \ \ \ \ \ The\ parking\ slot\ ID\ to\ check\ for\ duplicates.\r\n\ @param\ parkingSlots\ The\ list\ of\ parking\ slots\ to\ search\ for\ duplicates.\r\n\ @return\ True\ if\ the\ slot\ ID\ is\ a\ duplicate,\ false\ otherwise.\r\n
+numComments=4

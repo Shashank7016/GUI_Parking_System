@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CarPark
+comment1.params=
+comment1.target=CarPark()
+comment1.text=\r\n\ Constructor\ to\ create\ a\ new\ CarPark\ instance.\r\n\ Initializes\ the\ list\ of\ parking\ slots.\r\n
+comment2.params=slotId
+comment2.target=void\ addParkingSlot(java.lang.String)
+comment2.text=\r\n\ Adds\ a\ parking\ slot\ to\ the\ car\ park.\r\n\ \r\n\ @param\ slotId\ The\ ID\ of\ the\ parking\ slot\ to\ add.\r\n
+comment3.params=slotId
+comment3.target=boolean\ deleteParkingSlot(java.lang.String)
+comment3.text=\r\n\ Deletes\ a\ parking\ slot\ from\ the\ car\ park.\r\n\ \r\n\ @param\ slotId\ The\ ID\ of\ the\ parking\ slot\ to\ delete.\r\n
+comment4.params=
+comment4.target=void\ listAllSlots()
+comment4.text=\r\n\ Lists\ all\ parking\ slots\ and\ their\ occupancy\ status.\r\n
+comment5.params=regNumber
+comment5.target=boolean\ isCarAlreadyParked(java.lang.String)
+comment6.params=regNumber
+comment6.target=boolean\ removeCarByRegistration(java.lang.String)
+comment6.text=\r\n\ Removes\ a\ car\ from\ the\ car\ park\ by\ its\ registration\ number.\r\n\ \r\n\ @param\ regNumber\ The\ registration\ number\ of\ the\ car\ to\ remove.\r\n\ @return\ True\ if\ the\ car\ was\ removed\ successfully,\ false\ otherwise.\r\n
+comment7.params=slotId
+comment7.target=boolean\ doesSlotExist(java.lang.String)
+numComments=8

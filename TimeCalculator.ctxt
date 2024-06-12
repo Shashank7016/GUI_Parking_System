@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TimeCalculator
+comment1.params=startTime\ endTime
+comment1.target=java.lang.String\ calculateTimeDifference(java.time.LocalDateTime,\ java.time.LocalDateTime)
+comment1.text=\r\n\ Calculates\ the\ time\ difference\ between\ two\ LocalDateTime\ instances.\r\n\ \r\n\ @param\ startTime\ The\ start\ time.\r\n\ @param\ endTime\ \ \ The\ end\ time.\r\n\ @return\ A\ formatted\ string\ indicating\ the\ time\ difference\ in\ hours,\ minutes,\r\n\ \ \ \ \ \ \ \ \ and\ seconds.\r\n
+numComments=2
